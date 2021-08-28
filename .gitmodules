@@ -1,0 +1,8 @@
+[submodule "stor-blockchain-gui"]
+	path = stor-blockchain-gui
+	url = https://github.com/Stor-Network/stor-blockchain-gui.git
+	branch = pools
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/Stor-Network/mozilla-ca.git
+        branch = main
