@@ -1,0 +1,5 @@
+{
+  "dest": "dist/installers/",
+  "icon": "src/assets/img/stor.ico",
+  "tags": ["Blockchain"]
+}
