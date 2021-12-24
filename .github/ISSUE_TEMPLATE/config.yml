@@ -1,0 +1,12 @@
+contact_links:
+  - about: Ask a question or request support here
+    name: Ask for Support
+    url: >-
+      https://github.com/Stor-Network/stor-blockchain/discussions/new?category=support
+  - about: Request a new feature or idea here
+    name: Make a Request
+    url: >-
+      https://github.com/Stor-Network/stor-blockchain/discussions/new?category=ideas
+  - about: Get support on the StorForum.
+    name: Join the StorForum
+    url: 'https://storforum.com'
